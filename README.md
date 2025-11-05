@@ -1,7 +1,7 @@
 # EX-NO:14-HASH-ALGORITHM
 
 ## Aim:
-To implement HASH ALGORITHM
+To implement HASH ALGORITHM.
 
 ## Algorithm:
 
